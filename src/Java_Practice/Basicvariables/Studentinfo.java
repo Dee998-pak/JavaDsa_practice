@@ -32,7 +32,7 @@ public class Studentinfo {
         System.out.println(RED +"SECTION:" +RESET + section);
         System.out.println(PINK +"CGPA:" + RESET + cgpa);
         System.out.println(PURPLE +"EXAM:" +RESET + Exam);
-        
+
 
     }
 
