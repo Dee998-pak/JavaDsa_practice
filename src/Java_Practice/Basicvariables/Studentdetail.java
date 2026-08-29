@@ -61,7 +61,7 @@ public class Studentdetail {
         priya.student = true;
 
         System.out.println(" ");
-        // Deepak
+        
         System.out.println( CYAN+ " DEEPAK:" +RESET);
         System.out.println("Name    : " + deepak.name);
         System.out.println("Age     : " + deepak.age);
@@ -81,7 +81,7 @@ public class Studentdetail {
         System.out.println("Grade   : " + rahul.grade);
 
         System.out.println(" ");
-        // Amrita
+      
         System.out.println(YELLOW + "AMRITA" + RESET);
         System.out.println("Name    : " + amrita.name);
         System.out.println("Age     : " + amrita.age);
@@ -91,7 +91,7 @@ public class Studentdetail {
         System.out.println("Grade   : " + amrita.grade);
 
         System.out.println(" ");
-        // Priya
+        
         System.out.println(BLUE + "PRIYA" +RESET);
         System.out.println("Name    : " + priya.name);
         System.out.println("Age     : " + priya.age);
