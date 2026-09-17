@@ -1,7 +1,7 @@
 package JavaPractice.Datatypes;
 
 public class byteDataType {
-    public static void main(String[] args){
+    public static void main(StringType[] args){
         byte age    =   27;
         byte  temp  =   -32;
         byte  dist  =   45;

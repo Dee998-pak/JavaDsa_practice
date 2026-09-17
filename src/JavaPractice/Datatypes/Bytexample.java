@@ -18,7 +18,7 @@ public class Bytexample {
         String name4    =   "Aditya";
         byte    age4 =   25;
 
-        String  name5   =  "raju";
+        String name5   =  "raju";
         byte    age5    =   24;
 
 

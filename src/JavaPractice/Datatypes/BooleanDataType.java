@@ -1,7 +1,7 @@
 package JavaPractice.Datatypes;
 
 public class BooleanDataType {
-    public static void main(String[] args){
+    public static void main(StringType[] args){
 
         boolean IsMilkTasty      =   true;
         boolean IsFishTasty      =   false;

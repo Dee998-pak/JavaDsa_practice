@@ -1,7 +1,7 @@
 package JavaPractice.Datatypes;
 
 public class Exam {
-    public static void main(String[] args){
+    public static void main(StringType[] args){
         int mark    =   339;
         int mark1   =   239;
         boolean passed  =   mark>=300;

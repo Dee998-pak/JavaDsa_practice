@@ -1,7 +1,7 @@
 package JavaPractice.Basicvariables;
 
 public class Approach1iV {
-//  Variables are declare inside class but outside method.
+//  Variables are declare inside class but outside method called variable.
 
     String name;
     int age;

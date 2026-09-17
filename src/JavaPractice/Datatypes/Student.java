@@ -2,7 +2,7 @@ package JavaPractice.Datatypes;
 
 public class Student {
 
-  public static void main(String[] args){
+  public static void main(StringType[] args){
       int age =   27;
       String name =   "Deepa";
       String course   =   "MCA";

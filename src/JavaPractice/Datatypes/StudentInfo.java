@@ -3,10 +3,10 @@ package JavaPractice.Datatypes;
 public class StudentInfo {
     public static void main(String[] args){
 
-        String  name    =   "Sitansu Behera";
+        String name    =   "Sitansu Behera";
         int age =   27;
         double cgpa    =   8.6;
-        String  course  =   "MCA";
+        String course  =   "MCA";
         char    grade   =   'A';
         float   sgpa =   7.6f;
 

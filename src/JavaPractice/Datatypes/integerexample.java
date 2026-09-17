@@ -1,7 +1,5 @@
 package JavaPractice.Datatypes;
 
-import java.time.Year;
-
 public class integerexample {
     public static void main(String[] args){
 

@@ -1,7 +1,7 @@
 package JavaPractice.Datatypes;
 
 public class longDataType {
-    public static void main(String[] args){
+    public static void main(StringType[] args){
         long    worldpopulation = 8277390263L;
         long   lightyear        =9460730472580800L;
         long   view             =   2000000000000000000L;

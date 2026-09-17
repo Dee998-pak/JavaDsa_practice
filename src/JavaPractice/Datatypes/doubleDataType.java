@@ -1,7 +1,7 @@
 package JavaPractice.Datatypes;
 
 public class doubleDataType {
-    public static void main(String[] args){
+    public static void main(StringType[] args){
         double avogadrono = 6.02214076e23;
         double PlanckConstant= 6.62607015;
         double AtomicMassConstant =1.660539;

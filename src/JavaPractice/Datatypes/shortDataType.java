@@ -1,7 +1,7 @@
 package JavaPractice.Datatypes;
 
 public class shortDataType {
-    public static void main(String[] args){
+    public static void main(StringType[] args){
 
         short age       =   27;
         short roomno    =  407;

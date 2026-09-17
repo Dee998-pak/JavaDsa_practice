@@ -1,7 +1,7 @@
 package JavaPractice.Datatypes;
 
 public class floatDataType {
-    public static void main(String[] args){
+    public static void main(StringType[] args){
         float pi        =  3.14f;
         float gravity   =   9.8f;
         float light     =   3.8f;

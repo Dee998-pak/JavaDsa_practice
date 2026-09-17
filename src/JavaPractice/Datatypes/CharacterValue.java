@@ -3,7 +3,7 @@ package JavaPractice.Datatypes;
 import java.util.Scanner;
 
 public class CharacterValue {
-    public static void main(String[] args){
+    public static void main(StringType[] args){
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter One character:");

@@ -17,6 +17,4 @@ public class intDataType {
                System.out.println("YEAR:"+year);
                System.out.println("STUDENt:"+Student);
            }
-
-
 }
