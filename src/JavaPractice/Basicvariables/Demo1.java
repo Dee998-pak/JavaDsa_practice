@@ -8,27 +8,16 @@ public class Demo1 {
         String Name =   "Deepak Kumar Behera" ;
 
         int age =   34;
-
         String gender =   "Male";
-//
         long phn   =  7064306973L;
-//
         String email  =   "bdeepakkumar409@gmail.com";
-//
         String  Course=   "MCA";
-//
         String University =   "Centurion University";
-//
         long   reg_no =   250320100159L;
-//
         char    grade  =   'E';
-//
         boolean isPassed  =   true;
-//
         double  cgpa =   8.6;
-//
         String Address =   "Balitutha";
-//
 
 
     public static void main(String[] args){
