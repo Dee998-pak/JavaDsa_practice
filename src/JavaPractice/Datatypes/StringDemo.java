@@ -22,6 +22,17 @@ public class StringDemo {
         System.out.println(name1.charAt(12));
         System.out.println(name1.charAt(13));
         System.out.println(name1.charAt(30));
-        System.out.println(name1.charAt(53));
+        System.out.println(name1.charAt(51));
+
+        System.out.println(name1.toUpperCase());
+        System.out.println(name.toUpperCase());
+        System.out.println();
+        System.out.println(name.toLowerCase());
+        System.out.println(name1.toLowerCase());
+        System.out.println();
+        System.out.println(name1.contains("Bhubaneswar"));
+        System.out.println(name.contains("delhi"));
+        System.out.println(name1.concat("@makt building."));
+
     }
 }
