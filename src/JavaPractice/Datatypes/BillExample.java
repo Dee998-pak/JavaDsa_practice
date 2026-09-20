@@ -2,7 +2,7 @@ package JavaPractice.Datatypes;
 
 public class BillExample {
 
-    public static void main(String[] args){
+    public static void main(StringDemo[] args){
         int ricePrice = 60;
         int riceQuantity = 5;
 

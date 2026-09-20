@@ -2,7 +2,7 @@ package JavaPractice.Datatypes;
 
 public class StringBuilderDemo {
 
-    public static void main(String[] args){
+    public static void main(StringDemo[] args){
         StringBuilder sb =   new StringBuilder("JAVA");
         System.out.println("initial StringBuilder");
         sb.append(" IS AWESOME");

@@ -1,7 +1,7 @@
 package JavaPractice.Datatypes;
 
 public class stringbuilderconstructors {
-    public static void main(String[]args){
+    public static void main(StringDemo[]args){
         StringBuilder sb1   =   new StringBuilder();
         sb1.append("Hello Odisha");
         System.out.println("Sb1:"+sb1);

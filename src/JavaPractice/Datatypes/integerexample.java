@@ -1,7 +1,7 @@
 package JavaPractice.Datatypes;
 
 public class integerexample {
-    public static void main(String[] args){
+    public static void main(StringDemo[] args){
 
         int age  = 27;
         int mark =  421;

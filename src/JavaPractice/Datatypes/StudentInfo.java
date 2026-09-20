@@ -1,7 +1,7 @@
 package JavaPractice.Datatypes;
 
 public class StudentInfo {
-    public static void main(String[] args){
+    public static void main(StringDemo[] args){
 
         String name    =   "Sitansu Behera";
         int age =   27;

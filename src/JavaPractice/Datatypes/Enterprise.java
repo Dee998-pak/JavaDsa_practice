@@ -1,7 +1,7 @@
 package JavaPractice.Datatypes;
 
 public class Enterprise {
-    public static void main(String[]args ){
+    public static void main(StringDemo[]args ){
         int x   =   2147483647;
         x   =   x+1;
 

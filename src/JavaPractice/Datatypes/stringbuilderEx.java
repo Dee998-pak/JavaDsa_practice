@@ -2,6 +2,7 @@ package JavaPractice.Datatypes;
 
 public class stringbuilderEx {
     public static void main (String[]args){
+
 //        String sn = new String("Welcome to Odisha");
 //        System.out.println("Initial:"+sn);
 //

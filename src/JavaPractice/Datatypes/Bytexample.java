@@ -1,24 +1,24 @@
 package JavaPractice.Datatypes;
 
 public class Bytexample {
-    public static void main(String[] args){
+    public static void main(String [] args){
 
-        String name =   "deepak";
+        String  name =   "deepak";
         byte age    =   27;
 
-        String name1 ="Deepa";
+        String  name1 ="Deepa";
         byte age1    =   20;
 
-        String name2 =   "Swati";
+        String  name2 =   "Swati";
         byte age2    =   23;
 
-        String name3    =   "Chinta";
+        String  name3    =   "Chinta";
         byte age3    =   24;
 
-        String name4    =   "Aditya";
+        String  name4    =   "Aditya";
         byte    age4 =   25;
 
-        String name5   =  "raju";
+        String  name5   =  "raju";
         byte    age5    =   24;
 
 
