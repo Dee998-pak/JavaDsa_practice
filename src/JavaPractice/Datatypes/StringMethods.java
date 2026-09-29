@@ -1,17 +1,21 @@
 package JavaPractice.Datatypes;
 
+import java.util.Scanner;
+
 public class StringMethods {
     public static void main(String[] args){
+        Scanner sc= new Scanner(System.in);
         String  sr  =   "Welcome to Jagatsinghpur";
         String  st  =   "Odisha's 100 coastal villages now Tsunami Ready under UNESCO-IOC programme";
 
         String s    =   "Deepak";
         String sn   =   "   DEEPAK   ";
-        String name =   "Deepak Kumar Beehra";
+        System.out.println("Enter name");
+        String name =  sc.next();
         String[] Name   =   name.split(" ");
-        System.out.println(Name[0]);
-        System.out.println(Name[1]);
-        System.out.println(Name[2]);
+        for(String i: Name){
+            System.out.println(i);
+        }
 
         System.out.println(st.length());
         System.out.println(sr.length());
