@@ -12,6 +12,7 @@ public class ComparisionString {
      String St  =   "deepak kumar behera";
      String St1 =   "DEEPAK KUMAR BEHERA";
      System.out.println(St==St1);
-//     System.out.println(St.equalsIgnoreCase(St1));
+     System.out.println(St.equalsIgnoreCase(St1));
+
  }
 }
