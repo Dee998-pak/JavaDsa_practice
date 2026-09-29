@@ -7,11 +7,12 @@ public class StringMethods {
 
         String s    =   "Deepak";
         String sn   =   "   DEEPAK   ";
-        String name = "Deepak Kumar behera";
+        String name =   "Deepak Kumar Beehra";
         String[] Name   =   name.split(" ");
-        for (String n:Name){
-            System.out.println(n);
-        }
+        System.out.println(Name[0]);
+        System.out.println(Name[1]);
+        System.out.println(Name[2]);
+
         System.out.println(st.length());
         System.out.println(sr.length());
         System.out.println();
@@ -54,13 +55,5 @@ public class StringMethods {
         System.out.println(sn.indexOf(0));
         System.out.println(sn.replace("DEEPAK","Dipu"));
         System.out.println(sn.trim());
-
-
-
-
-
-
-
-
     }
 }
