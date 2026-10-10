@@ -12,5 +12,6 @@ public class declarationInit {
         System.out.println("Time:"+t);
         System.out.println("Speed="+"Distance/Time");
         System.out.println("SPEED="+SPEED);
+
     }
 }

@@ -18,5 +18,6 @@ public class localVar1 {
         System.out.println("phone Number:"+pn);
         System.out.println("Color:"+color);
 
+
  }
 }
