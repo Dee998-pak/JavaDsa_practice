@@ -1,6 +1,6 @@
 package JavaPractice.Datatypes;
 
-public class c {
+public class ByteToDouble {
     public static void main(String[] args){
         byte    b   =   100;
         double  d   =   b;
