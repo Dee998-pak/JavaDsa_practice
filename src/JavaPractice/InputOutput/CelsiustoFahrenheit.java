@@ -10,8 +10,8 @@ public class CelsiustoFahrenheit {
         int temp    =   sc.nextInt();
         System.out.println("temperature in Celsius:"+temp);
 
-        double i   =   (9.0/5.0)*temp+32;
-        System.out.println("fahrenites:"+i);
+        double fahrenheit   =   (9.0/5.0)*temp+32;
+        System.out.println("fahrenites:"+fahrenheit);
         sc.close();
     }
 }
