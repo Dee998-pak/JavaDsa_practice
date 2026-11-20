@@ -15,7 +15,7 @@ public class GeometricProgression {
         System.out.println("Enter nth Term:");
         int     n   =   sc.nextInt();
 
-        int Gp  =   (a  *Math.pow(r,n-1));
+        int Gp  =  (int)  (a  *Math.pow(r,n-1));
         System.out.println("The Geometric Progression:"+Gp);
         sc.close();
     }
