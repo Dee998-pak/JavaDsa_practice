@@ -15,7 +15,7 @@ public class TestOperation {
         int a   =   x+y;
         int s   =   x-y;
         int m   =   x*y;
-        double  f   =   x/y;
+        double  f   =(double)   x/y;
         int     d   =   x/y;
         int     md  =   x%y;
 
