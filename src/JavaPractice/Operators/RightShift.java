@@ -5,6 +5,6 @@ public class RightShift {
 
         int x   =   54;
 
-        System.out.println(x<<1);
+        System.out.println(x>>1);
     }
 }
