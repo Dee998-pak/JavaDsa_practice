@@ -9,7 +9,7 @@ public class RightShiftex1 {
         System.out.println("Enter The Number:");
         int x   = sc.nextInt();
 
-        int rs  =   x<<1;
+        int rs  =   x>>1;
 
         System.out.println("RightShift:"+rs);
         sc.close();
