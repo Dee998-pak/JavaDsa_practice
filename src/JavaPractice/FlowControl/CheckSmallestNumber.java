@@ -14,9 +14,10 @@ public class CheckSmallestNumber {
 
             if (a   <   b  ){
                 System.out.println("A is smaller");
-            }
-            else {
-                System.out.println("B is Greater");
+            } else if (b    <   a) {
+                System.out.println("B is greater ");
+            } else {
+                System.out.println("Both Numbers are Equal");
             }
             sc.close();
         }
